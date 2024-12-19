@@ -13,3 +13,19 @@ Models
 
 NBA Team Win Data Source:
 https://www.basketball-reference.com/leagues/NBA_wins.html
+
+NBA Team Game Total Notes:
+- 1998 Season, Lockout, 50 Game Total
+- 2011 Season, Lockout, 66 Game Total
+- 2012 Season, Cancelation(Boston Marathon Bombing), 81 Game Total for IND and BOS
+- 2019 Season, COVID, 
+    - 64 Game Total (MIN)
+    - 65 Game Total (CHO, CHI, CLE, GSW)
+    - 66 Game Total (NYK, DET) 
+    - 67 Game Total (ATL)
+    - 71 Game Total (LAL, SAS)
+    - 72 Game Total (TOR, BOS, BRK, WAS, LAC, HOU, OKC, UTA, SAC, NOP)
+    - 73 Game Total (MIL, IND, MIA, PHI, ORL, DEN, MEM, PHO)
+    - 74 Game Total (POR)
+    - 75 Game Total (DAL)
+- 2020 Season, COVID, 72 Game Total
