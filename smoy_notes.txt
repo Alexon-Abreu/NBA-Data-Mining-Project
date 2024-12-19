@@ -9,3 +9,6 @@ SMOY Eligibility
 Models
 - 29.41
 - 26.47 (No POS, SMOY_ELG)
+
+NBA Team Win Data Source:
+https://www.basketball-reference.com/leagues/NBA_wins.html
